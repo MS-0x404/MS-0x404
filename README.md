@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👋 Hey there! I'm Matteo
 
-<!--
-**matteosalis04/matteosalis04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+def about_me():
+    return {
+        "age": 20,
+        "passions": ["Python 🐍", "Cybersecurity 🔒", "Mountain Life 🏔️"],
+        "current_status": "Debugging life, one line at a time"
+    }
+```
 
-Here are some ideas to get you started:
+## 🚀 Who Am I?
+Just your average tech enthusiast splitting time between code and mountain trails! 
+When I'm not ethically hacking stuff, you'll probably find me on some peak 
+with my laptop in my backpack (yes, I'm that kind of nerd 🤓).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+- Python is my daily bread and butter
+- Cybersecurity tools (because who doesn't want to be Mr. Robot?)
+- Learning path: anything that can make me a better Ethical Hacker
+
+## 🏔️ When I'm AFK (Away From Keyboard)
+- Trekking until I find the perfect spot to code with an epic view
+- Skiing down slopes (sometimes I debug better at 6500ft!)
+- Planning the next adventure between mountains and code
+
+## 📚 Currently Learning
+- Advanced Python tricks (because learning never stops)
+- Penetration Testing
+- New trekking routes (okay, not tech-related but still important!)
+
+## 💭 My Random Thoughts
+> "The best firewalls are mountains - no signal, no vulnerabilities 😉"
+
+> "Why hack time when you can hack altitude?"
+
+> "Keep your friends close, your enemies closer, and your Python packages updated"
+
+> "In both mountains and coding: always test your safety equipment"
+
+> "404: Summit Not Found - Time to explore new paths"
+
+> "The only SQL injection I like is injecting coffee into my system before a climb"
+
+> "Real hackers test their limits both in cyberspace and at high altitudes"
+> 
+## 🎯 2025 Goals
+- Become a certified Ethical Hacker
+- Contribute to more open source projects
+- Reach at least 10 new peaks
+- Start a blog combining tech and mountain life
+
+## 📫 Find Me
+If you want to chat about Python, cybersecurity, or plan a tech-friendly hike, 
+I'm always looking to connect with like-minded people!
+
+> "Life is like debugging: sometimes you need to climb higher to see the problem from above" 
+> - Me, probably on some mountain peak with a laptop
+
+⚡ Fun fact: My favorite coding setup is at 6500ft elevation. Debugging works 
+way better with a breathtaking view! 🏔️💻
+
+---
+*If you like my profile, drop a ⭐️ - I promise to return the favor from my next summit!*
