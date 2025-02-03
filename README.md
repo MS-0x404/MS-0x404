@@ -29,26 +29,10 @@ with my laptop in my backpack (yes, I'm that kind of nerd 🤓).
 - Penetration Testing
 - New trekking routes (okay, not tech-related but still important!)
 
-## 💭 My Random Thoughts
-> "The best firewalls are mountains - no signal, no vulnerabilities 😉"
-
-> "Why hack time when you can hack altitude?"
-
-> "Keep your friends close, your enemies closer, and your Python packages updated"
-
-> "In both mountains and coding: always test your safety equipment"
-
-> "404: Summit Not Found - Time to explore new paths"
-
-> "The only SQL injection I like is injecting coffee into my system before a climb"
-
-> "Real hackers test their limits both in cyberspace and at high altitudes"
-> 
 ## 🎯 2025 Goals
 - Become a certified Ethical Hacker
 - Contribute to more open source projects
 - Reach at least 10 new peaks
-- Start a blog combining tech and mountain life
 
 ## 📫 Find Me
 If you want to chat about Python, cybersecurity, or plan a tech-friendly hike, 
