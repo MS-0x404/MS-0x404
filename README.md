@@ -3,6 +3,7 @@
 ```python
 def about_me():
     return {
+        "nickname": MagicSale,
         "age": 20,
         "passions": ["Python 🐍", "Cybersecurity 🔒", "Mountain Life 🏔️"],
         "current_status": "Debugging life, one line at a time"
