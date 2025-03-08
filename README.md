@@ -9,15 +9,8 @@ def about_me():
         "current_status": "Debugging life, one line at a time"
     }
 ```
-
-## 💻 Tech Stack
-- Python is my daily bread and butter
-- Cybersecurity tools
-- Learning path: anything that can make me a better Ethical Hacker
  
-## 📫 Find Me
-If you want to chat about Python, cybersecurity, or plan a tech-friendly hike, 
-I'm always looking to connect with like-minded people!
+
 
 > "Life is like debugging: sometimes you need to climb higher to see the problem from above" 
 > - Me, probably on some mountain peak with a laptop
