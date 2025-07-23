@@ -64,7 +64,6 @@ print(f"🔥 {about_me()['current_status']}")
 [![Mountain Coder](https://img.shields.io/badge/Mountain_Coder-🏔️-blue?style=for-the-badge)]()
 [![Always Learning](https://img.shields.io/badge/Status-Always_Learning-brightgreen?style=for-the-badge)]()
 
-*Ready for the next coding adventure? Let's build something magical together! ✨*
 
 </div>
 
