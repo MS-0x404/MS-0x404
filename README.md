@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=MagicSale+%E2%9C%A8+%7C+Mountain+Coder;Python+%F0%9F%90%8D+%7C+Cybersecurity+%F0%9F%94%92;Red+Team+%F0%9F%8E%AF+%7C+Always+Learning;Debugging+life%2C+one+line+at+a+time...)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=msfire+%E2%9C%A8+%7C+Mountain+Coder;Python+%F0%9F%90%8D+%7C+Cybersecurity+%F0%9F%94%92;Red+Team+%F0%9F%8E%AF+%7C+Always+Learning;Debugging+life%2C+one+line+at+a+time...)
 
 </div>
 
