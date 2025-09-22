@@ -9,7 +9,7 @@
 ```python
 def about_me():
     return {
-        "nickname": "MagicSale ✨",
+        "nickname": "msfire 🔥",
         "age": 20,
         "passions": ["Python 🐍", "Cybersecurity 🔒", "Red Team 🎯","Mountain Life 🏔️"],
         "current_status": "Debugging life, one line at a time",
@@ -19,7 +19,7 @@ def about_me():
     }
 
 # Current vibe check 📊
-print(f"🔥 {about_me()['current_status']}")
+print(f"☕ {about_me()['current_status']}")
 ```
 
 <div align="center">
