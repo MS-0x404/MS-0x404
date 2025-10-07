@@ -10,7 +10,7 @@
 def about_me():
     return {
         "nickname": "msfire 🔥",
-        "age": 20,
+        "age": 21,
         "passions": ["Python 🐍", "Cybersecurity 🔒", "Red Team 🎯","Mountain Life 🏔️"],
         "current_status": "Debugging life, one line at a time",
         "fun_fact": "I write my best code at 2000m altitude 🏔️",
