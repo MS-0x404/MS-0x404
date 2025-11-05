@@ -15,11 +15,8 @@ def about_me():
         "current_status": "Debugging life, one line at a time",
         "fun_fact": "I write my best code at 2000m altitude 🏔️",
         "collaboration": True,  # Always open to new projects!
-        "coffee_required": float('inf')  # ☕
     }
 
-# Current vibe check 📊
-print(f"☕ {about_me()['current_status']}")
 ```
 
 <div align="center">
