@@ -37,17 +37,6 @@ def about_me():
 
 ---
 
-<div align="center">
-
-### 📊 **GitHub Stats**
-
-![Matteo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MS-0X404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MS-0X404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF)
-
-</div>
-
----
 
 <div align="center">
 
